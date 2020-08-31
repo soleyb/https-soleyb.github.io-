@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type = "text/css" href="bingostillingar.css"/>
+    <title></title>
+    <script src="script.js">Nýtt spjald</script>
+  </head>
+  <body>
+
+<h1><a>Smelltu hér til að fá nýtt spjald</a></h1>
+
+<h6><a>Bingóstjóri smellir hér</a></h6>
+
+</body>
+</html>
